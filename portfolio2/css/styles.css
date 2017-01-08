@@ -37,3 +37,16 @@ p {
 .well {
   background-color: #fcf58d;
 }
+
+.pictures {
+  float:right;
+  padding-left: 100px;
+}
+
+h4 {
+  margin-top: 70px;
+}
+
+.many {
+  color: purple;
+}
