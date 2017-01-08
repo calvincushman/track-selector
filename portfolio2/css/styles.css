@@ -21,6 +21,10 @@ img {
   color: #755799;
 }
 
+.aboutme {
+  float: left;
+}
+
 .container2 {
   margin-top: 40px;
 }
